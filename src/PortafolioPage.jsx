@@ -131,7 +131,7 @@ export default function PortfolioPage() {
 
                         {/* Botón CTA */}
                         <motion.a
-                            href="/resume.pdf"
+                            href="/AlejandroSampablo__CV.pdf"
                             className="inline-flex items-center gap-2 bg-indigo-500 text-white px-6 py-3 rounded-full font-semibold hover:bg-indigo-600 transition"
                             whileHover={{ scale: 1.05 }}
                         >
