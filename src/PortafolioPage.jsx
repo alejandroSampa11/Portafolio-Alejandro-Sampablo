@@ -608,7 +608,7 @@ export default function PortfolioPage() {
                         <Linkedin size={28} />
                     </motion.a>
                     <motion.a
-                        href="mailto:alejandro.sampablo@example.com"
+                        href="mailto:alejandro200304@gmail.com"
                         whileHover={{ scale: 1.2 }}
                         className="hover:text-green-400 transition-colors"
                     >
